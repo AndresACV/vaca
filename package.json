@@ -1,0 +1,14 @@
+{
+  "name": "vaca",
+  "version": "0.1.0",
+  "description": "Dividir los gastos de un paseo y saber quién le debe a quién.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node src/cli.ts gastos.json",
+    "test": "node --test"
+  }
+}
