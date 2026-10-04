@@ -1,6 +1,6 @@
-# vaca
+# dev-wrapped
 
-Dividí los gastos de un paseo y sabé quién le debe a quién.
+Tu año en commits, al estilo Wrapped: cuántos commits hiciste, tu racha más larga, tu lenguaje y tu repo favoritos, y a qué hora programás.
 
 ## Requisitos
 
@@ -13,18 +13,19 @@ node --version
 ## Uso
 
 ```bash
-npm start   # lee gastos.json e imprime el saldo de cada persona
+npm start   # lee commits.json e imprime el Wrapped
 npm test    # corre las pruebas
 ```
 
-`gastos.json` es una lista de gastos. Cada gasto dice cuánto costó (en colones, sin céntimos), quién lo pagó y entre quiénes se divide.
+`commits.json` trae el historial de una persona: su nombre, el año y la lista de commits. Cada commit tiene su fecha (con el desfase horario de donde se hizo), el repo, el lenguaje y cuántas líneas agregó y borró.
 
 ## Estructura
 
 | Archivo | Qué hace |
 |---|---|
-| `src/dividir.ts` | Cuánto le toca poner a cada persona de un gasto |
-| `src/saldos.ts` | El saldo de cada persona después de todos los gastos |
-| `src/liquidar.ts` | Las transferencias que dejan a todos en cero |
-| `src/formato.ts` | Formato de montos en colones |
+| `src/fechas.ts` | El día y la hora de cada commit |
+| `src/rachas.ts` | Los días activos y la racha más larga |
+| `src/ranking.ts` | El lenguaje, el repo y la hora favoritos |
+| `src/wrapped.ts` | Junta todo en el resumen del año |
+| `src/formato.ts` | Números, plurales, fechas y horas para mostrar |
 | `src/cli.ts` | El comando que corre `npm start` |

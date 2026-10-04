@@ -1,7 +1,0 @@
-[
-  { "descripcion": "Cabaña en Monteverde", "monto": 85000, "pagadoPor": "Ana", "entre": ["Ana", "Beto", "Caro", "Diego"] },
-  { "descripcion": "Gasolina", "monto": 32000, "pagadoPor": "Beto", "entre": ["Ana", "Beto", "Caro", "Diego"] },
-  { "descripcion": "Cena", "monto": 47500, "pagadoPor": "Caro", "entre": ["Ana", "Beto", "Caro"] },
-  { "descripcion": "Tour de canopy", "monto": 120000, "pagadoPor": "Diego", "entre": ["Ana", "Caro", "Diego"] },
-  { "descripcion": "Súper", "monto": 23450, "pagadoPor": "Ana", "entre": ["Ana", "Beto", "Caro", "Diego"] }
-]

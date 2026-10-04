@@ -1,14 +1,14 @@
 {
-  "name": "vaca",
+  "name": "dev-wrapped",
   "version": "0.1.0",
-  "description": "Dividir los gastos de un paseo y saber quién le debe a quién.",
+  "description": "Tu año en commits, al estilo Wrapped.",
   "type": "module",
   "private": true,
   "engines": {
     "node": ">=22.18"
   },
   "scripts": {
-    "start": "node src/cli.ts gastos.json",
+    "start": "node src/cli.ts commits.json",
     "test": "node --test"
   }
 }

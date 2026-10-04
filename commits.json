@@ -1,0 +1,1662 @@
+{
+  "persona": "Sofía",
+  "anio": 2025,
+  "commits": [
+    {
+      "fecha": "2025-01-02T13:44:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 113,
+      "borradas": 10,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-01-02T21:54:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 189,
+      "borradas": 32,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-01-03T20:39:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 167,
+      "borradas": 44,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-01-03T21:20:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 36,
+      "borradas": 67,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-01-06T10:02:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 99,
+      "borradas": 26,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-01-06T21:50:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 207,
+      "borradas": 82,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-01-06T23:54:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 153,
+      "borradas": 13,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-01-12T21:45:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 6,
+      "borradas": 77,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-01-13T08:01:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 19,
+      "borradas": 0,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-01-13T10:20:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 43,
+      "borradas": 12,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-01-13T23:13:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 6,
+      "borradas": 44,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-01-14T09:04:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 192,
+      "borradas": 41,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-01-14T20:45:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 217,
+      "borradas": 36,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-01-16T11:19:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 5,
+      "borradas": 2,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-01-16T19:29:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 195,
+      "borradas": 51,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-01-16T23:17:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 160,
+      "borradas": 20,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-01-21T20:44:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 211,
+      "borradas": 72,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-01-25T21:11:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 11,
+      "borradas": 44,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-01-25T22:37:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 87,
+      "borradas": 78,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-01-26T22:50:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 83,
+      "borradas": 61,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-01-30T22:46:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 184,
+      "borradas": 0,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-02-06T19:40:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 38,
+      "borradas": 44,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-02-06T20:36:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 26,
+      "borradas": 53,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-02-10T08:46:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 166,
+      "borradas": 79,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-02-11T21:56:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 161,
+      "borradas": 41,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-02-12T19:17:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 138,
+      "borradas": 54,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-02-15T20:26:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 100,
+      "borradas": 65,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-02-15T20:31:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 97,
+      "borradas": 36,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-02-15T21:33:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 152,
+      "borradas": 10,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-02-18T23:11:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 5,
+      "borradas": 50,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-02-20T21:59:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 115,
+      "borradas": 16,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-02-24T08:52:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 111,
+      "borradas": 18,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-02-24T16:02:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 180,
+      "borradas": 62,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-02-25T19:56:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 41,
+      "borradas": 76,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-02-25T21:45:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 103,
+      "borradas": 74,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-02-25T23:15:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 146,
+      "borradas": 69,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-02-27T23:46:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 69,
+      "borradas": 56,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-03-03T21:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 154,
+      "borradas": 4,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-03-04T21:30:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 52,
+      "borradas": 61,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-03-05T21:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 146,
+      "borradas": 25,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-03-06T21:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 141,
+      "borradas": 67,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-03-07T21:30:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 188,
+      "borradas": 71,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-03-08T21:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 88,
+      "borradas": 51,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-03-09T09:30:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 81,
+      "borradas": 49,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-03-10T09:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 65,
+      "borradas": 37,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-03-11T09:30:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 53,
+      "borradas": 21,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-03-12T09:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 217,
+      "borradas": 44,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-03-13T09:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 25,
+      "borradas": 12,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-03-14T09:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 44,
+      "borradas": 25,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-03-20T10:15:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 46,
+      "borradas": 26,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-03-27T20:05:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 140,
+      "borradas": 84,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-04-07T14:33:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 222,
+      "borradas": 35,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-04-07T21:44:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 156,
+      "borradas": 30,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-04-07T21:52:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 142,
+      "borradas": 4,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-04-10T09:42:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 145,
+      "borradas": 88,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-04-10T13:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 185,
+      "borradas": 54,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-04-12T09:30:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 208,
+      "borradas": 54,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-04-15T11:28:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 152,
+      "borradas": 68,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-04-15T22:25:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 21,
+      "borradas": 82,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-04-20T10:11:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 79,
+      "borradas": 27,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-04-20T21:36:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 22,
+      "borradas": 72,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-04-22T20:53:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 195,
+      "borradas": 78,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-04-22T23:52:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 8,
+      "borradas": 35,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-04-23T08:01:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 220,
+      "borradas": 17,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-04-23T09:25:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 211,
+      "borradas": 49,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-04-23T19:24:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 125,
+      "borradas": 23,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-04-28T19:20:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 182,
+      "borradas": 12,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-04-28T19:40:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 204,
+      "borradas": 58,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-05-04T10:00:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 168,
+      "borradas": 42,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-05-04T19:59:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 128,
+      "borradas": 43,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-05-04T20:25:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 35,
+      "borradas": 1,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-05-06T19:20:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 5,
+      "borradas": 86,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-05-06T20:18:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 47,
+      "borradas": 25,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-05-10T12:22:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 88,
+      "borradas": 19,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-05-10T12:46:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 133,
+      "borradas": 43,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-05-10T23:17:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 57,
+      "borradas": 53,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-05-12T13:51:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 219,
+      "borradas": 75,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-05-12T20:34:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 15,
+      "borradas": 15,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-05-14T11:02:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 86,
+      "borradas": 83,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-05-14T20:23:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 161,
+      "borradas": 26,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-05-14T23:27:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 61,
+      "borradas": 89,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-05-16T23:00:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 148,
+      "borradas": 50,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-05-19T22:06:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 144,
+      "borradas": 47,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-05-21T19:35:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 104,
+      "borradas": 7,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-05-21T23:19:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 45,
+      "borradas": 24,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-05-21T23:35:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 10,
+      "borradas": 71,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-05-22T19:51:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 216,
+      "borradas": 34,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-05-23T23:13:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 133,
+      "borradas": 7,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-05-24T08:06:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 200,
+      "borradas": 40,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-05-24T23:02:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 168,
+      "borradas": 66,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-05-26T09:00:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 113,
+      "borradas": 61,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-05-26T19:22:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 108,
+      "borradas": 10,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-05-29T12:45:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 136,
+      "borradas": 27,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-05-29T20:48:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 194,
+      "borradas": 42,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-06-02T20:10:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 80,
+      "borradas": 20,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-06-05T22:40:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 41,
+      "borradas": 74,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-06-11T01:15:00+02:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 7,
+      "borradas": 19,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-06-12T23:50:00+02:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 151,
+      "borradas": 60,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-06-14T01:30:00+02:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 121,
+      "borradas": 45,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-06-15T00:45:00+02:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 82,
+      "borradas": 82,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-06-20T21:00:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 189,
+      "borradas": 71,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-06-25T19:20:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 182,
+      "borradas": 74,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-07-01T11:18:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 149,
+      "borradas": 20,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-07-01T12:20:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 51,
+      "borradas": 41,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-07-01T15:36:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 31,
+      "borradas": 20,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-07-05T20:30:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 103,
+      "borradas": 52,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-07-05T21:47:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 129,
+      "borradas": 48,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-07-05T23:03:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 56,
+      "borradas": 64,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-07-14T10:09:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 58,
+      "borradas": 17,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-07-14T16:40:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 82,
+      "borradas": 60,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-07-14T20:35:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 26,
+      "borradas": 8,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-07-19T19:59:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 56,
+      "borradas": 62,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-07-19T23:19:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 14,
+      "borradas": 4,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-07-19T23:28:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 210,
+      "borradas": 38,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-07-20T21:55:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 107,
+      "borradas": 68,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-07-20T23:43:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 125,
+      "borradas": 3,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-07-22T14:27:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 106,
+      "borradas": 26,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-08-01T10:07:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 97,
+      "borradas": 71,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-08-01T23:25:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 167,
+      "borradas": 52,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-08-02T14:35:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 223,
+      "borradas": 29,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-08-02T15:11:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 94,
+      "borradas": 22,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-08-02T19:20:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 56,
+      "borradas": 16,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-08-07T19:46:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 109,
+      "borradas": 59,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-08-10T15:27:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 43,
+      "borradas": 85,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-08-17T11:11:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 24,
+      "borradas": 34,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-08-17T23:13:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 205,
+      "borradas": 66,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-08-20T20:40:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 47,
+      "borradas": 14,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-08-21T20:29:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 82,
+      "borradas": 41,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-08-21T21:06:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 75,
+      "borradas": 65,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-08-21T22:15:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 83,
+      "borradas": 34,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-08-24T09:18:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 111,
+      "borradas": 38,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-08-24T11:41:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 110,
+      "borradas": 46,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-08-24T19:59:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 159,
+      "borradas": 68,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-08-31T19:34:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 41,
+      "borradas": 88,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-08-31T21:11:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 40,
+      "borradas": 39,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-09-06T10:12:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 159,
+      "borradas": 46,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-09-06T22:01:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 37,
+      "borradas": 60,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-09-07T23:00:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 54,
+      "borradas": 46,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-09-08T11:11:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 171,
+      "borradas": 13,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-09-08T21:45:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 177,
+      "borradas": 9,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-09-09T15:06:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 189,
+      "borradas": 53,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-09-09T21:06:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 104,
+      "borradas": 8,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-09-09T21:42:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 62,
+      "borradas": 51,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-09-11T20:17:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 150,
+      "borradas": 20,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-09-14T20:43:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 154,
+      "borradas": 16,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-09-14T21:35:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 70,
+      "borradas": 38,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-09-14T23:15:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 23,
+      "borradas": 80,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-09-20T19:23:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 17,
+      "borradas": 63,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-09-20T21:19:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 37,
+      "borradas": 58,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-09-20T22:40:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 92,
+      "borradas": 3,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-09-21T08:39:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 154,
+      "borradas": 50,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-09-21T22:23:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 218,
+      "borradas": 54,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-09-29T14:35:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 114,
+      "borradas": 6,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-09-30T19:27:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 57,
+      "borradas": 80,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-09-30T20:03:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 219,
+      "borradas": 26,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-10-05T16:23:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 152,
+      "borradas": 24,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-10-05T19:13:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 84,
+      "borradas": 86,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-10-05T23:16:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 199,
+      "borradas": 31,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-10-07T08:18:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 6,
+      "borradas": 48,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-10-08T23:55:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 179,
+      "borradas": 73,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-10-10T21:27:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 105,
+      "borradas": 20,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-10-13T19:32:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 118,
+      "borradas": 41,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-10-13T20:55:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 128,
+      "borradas": 77,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-10-13T23:38:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 101,
+      "borradas": 60,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-10-14T19:08:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 95,
+      "borradas": 9,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-10-14T23:40:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 126,
+      "borradas": 28,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-10-18T12:50:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 185,
+      "borradas": 50,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-10-18T19:21:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 173,
+      "borradas": 53,
+      "mensaje": "cachea el catálogo"
+    },
+    {
+      "fecha": "2025-10-18T21:21:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 219,
+      "borradas": 23,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-10-21T11:24:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 218,
+      "borradas": 68,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-10-21T19:36:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 194,
+      "borradas": 61,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-10-21T22:50:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 56,
+      "borradas": 86,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-10-22T16:11:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 48,
+      "borradas": 36,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-10-22T21:01:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 126,
+      "borradas": 80,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-10-25T21:53:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 68,
+      "borradas": 87,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-10-25T23:34:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 44,
+      "borradas": 82,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-10-28T08:48:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 74,
+      "borradas": 59,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-10-28T20:37:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 152,
+      "borradas": 57,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-10-28T22:00:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 138,
+      "borradas": 85,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-11-01T22:40:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 33,
+      "borradas": 44,
+      "mensaje": "arregla el bot que no respondía"
+    },
+    {
+      "fecha": "2025-11-01T22:57:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 206,
+      "borradas": 84,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-11-11T23:52:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 152,
+      "borradas": 13,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-11-12T12:18:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 137,
+      "borradas": 0,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-11-12T19:25:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 69,
+      "borradas": 1,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-11-12T23:06:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 170,
+      "borradas": 3,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-11-13T11:10:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "SQL",
+      "agregadas": 120,
+      "borradas": 89,
+      "mensaje": "corrige typo"
+    },
+    {
+      "fecha": "2025-11-13T21:23:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 99,
+      "borradas": 67,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-11-16T20:40:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 129,
+      "borradas": 15,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-11-16T23:25:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 47,
+      "borradas": 3,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-11-19T10:43:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 213,
+      "borradas": 28,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-11-21T10:45:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 132,
+      "borradas": 87,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-11-21T10:53:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 71,
+      "borradas": 77,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-11-21T23:30:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 196,
+      "borradas": 70,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-11-23T21:35:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 150,
+      "borradas": 4,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-11-30T19:23:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 191,
+      "borradas": 22,
+      "mensaje": "nuevo endpoint de pedidos"
+    },
+    {
+      "fecha": "2025-12-05T22:45:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 168,
+      "borradas": 28,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-12-07T21:18:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 215,
+      "borradas": 56,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-12-07T22:49:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 217,
+      "borradas": 69,
+      "mensaje": "limpia logs"
+    },
+    {
+      "fecha": "2025-12-07T23:05:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 149,
+      "borradas": 67,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-12-08T16:51:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 143,
+      "borradas": 83,
+      "mensaje": "ajusta estilos del header"
+    },
+    {
+      "fecha": "2025-12-08T22:09:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 137,
+      "borradas": 39,
+      "mensaje": "refactor del carrito"
+    },
+    {
+      "fecha": "2025-12-08T23:46:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 58,
+      "borradas": 37,
+      "mensaje": "actualiza dependencias"
+    },
+    {
+      "fecha": "2025-12-10T19:14:00-06:00",
+      "repo": "scripts-datos",
+      "lenguaje": "Python",
+      "agregadas": 136,
+      "borradas": 49,
+      "mensaje": "arregla el checkout"
+    },
+    {
+      "fecha": "2025-12-12T22:39:00-06:00",
+      "repo": "portafolio",
+      "lenguaje": "CSS",
+      "agregadas": 194,
+      "borradas": 38,
+      "mensaje": "agrega pruebas"
+    },
+    {
+      "fecha": "2025-12-12T23:07:00-06:00",
+      "repo": "bot-discord",
+      "lenguaje": "JavaScript",
+      "agregadas": 59,
+      "borradas": 39,
+      "mensaje": "mejora el README"
+    },
+    {
+      "fecha": "2025-12-12T23:37:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 117,
+      "borradas": 21,
+      "mensaje": "migración de la tabla de usuarios"
+    },
+    {
+      "fecha": "2025-12-13T20:17:00-06:00",
+      "repo": "tienda-api",
+      "lenguaje": "TypeScript",
+      "agregadas": 71,
+      "borradas": 18,
+      "mensaje": "cachea el catálogo"
+    }
+  ]
+}
